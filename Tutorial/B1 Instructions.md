@@ -1,8 +1,8 @@
 # Create copilot-instructions
 
-Options
+How?
 - /init 
-- VS Code: Tandhjul --> 'Instructions & Rules' -> 'Generate agent instructions'
+- Or click in VS Code: Tandhjul --> 'Instructions & Rules' -> 'Generate agent instructions'
 
 ### Instruction types
 You can defined instructions for different types of instructions.
