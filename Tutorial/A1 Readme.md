@@ -1,6 +1,8 @@
 # Create README.md
 
-Create a README.md to quickly explain the project and help developers getting started
+Prompt:
+
+`Create a README.md to quickly explain the project and help developers getting started`
 
 
 
